@@ -2,10 +2,6 @@
 
 Open source Application to keep track of your expenses with a material design style.
 
-Find it on Play Store : https://play.google.com/store/apps/details?id=com.pedrocarrillo.expensetracker
-
-Contact:
-- Twitter - https://twitter.com/pter9
 
 # Application Summary
 
